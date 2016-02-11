@@ -28,7 +28,7 @@ Bullsheets are organized by namespace.
 This is done so, so that when you use a BullSheetGenerator, you just need to import the whole namespace into your 
 local machine, and you can start generating random data right away.
 
-For more information, please refer to the documentation of the [BullSheet planet](https://github.com/lingtalfi/BullSheet).
+For more information, please refer to the documentation of tallhe [BullSheet planet](https://github.com/lingtalfi/BullSheet).
 
 
 
@@ -46,6 +46,10 @@ For more information, please refer to the documentation of the [BullSheet planet
 History Log
 ------------------
     
+- 1.3.0 -- 2016-02-11
+
+    - add music_genre 
+        
 - 1.2.0 -- 2016-02-11
 
     - add word 
