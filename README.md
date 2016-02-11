@@ -46,6 +46,10 @@ For more information, please refer to the documentation of tallhe [BullSheet pla
 History Log
 ------------------
     
+- 1.4.0 -- 2016-02-11
+
+    - add password 
+        
 - 1.3.0 -- 2016-02-11
 
     - add music_genre 
