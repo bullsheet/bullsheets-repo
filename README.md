@@ -4,7 +4,7 @@ BullSheet Repository
 
 
 
-Repository where you can put all your bullsheets.
+A repository where you store the bullsheets.
  
  
  
@@ -45,6 +45,10 @@ For more information, please refer to the documentation of the [BullSheet planet
 
 History Log
 ------------------
+    
+- 1.1.0 -- 2016-02-11
+
+    - add ling/lorem 
     
 - 1.0.0 -- 2016-02-10
 
