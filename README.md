@@ -46,6 +46,12 @@ For more information, please refer to the documentation of the [BullSheet planet
 History Log
 ------------------
     
+- 1.2.0 -- 2016-02-11
+
+    - add word 
+    - add url 
+    - add images 
+        
 - 1.1.0 -- 2016-02-11
 
     - add ling/lorem 
