@@ -76,6 +76,13 @@ Amongst the best resources I've come across for collecting bullsheet repositorie
 History Log
 ------------------
     
+- 1.8.0 -- 2016-02-12
+
+    - add url/facebook
+    - add url/twitter
+    - add url/linkedin
+    - add url/google_plus 
+        
 - 1.7.0 -- 2016-02-12
 
     - reorganize title
