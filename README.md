@@ -41,10 +41,36 @@ For more information, please refer to the documentation of tallhe [BullSheet pla
 
 
 
+How much lines should contain a file?
+--------------------
+
+Short answer: 50000 lines or less, on unix (not tested on windows).
+
+
+I'm very angry when I wait, waiting 1 second is just something I can't do.
+
+Here are my observations about the relationship between the number of lines of a data file,
+and the time that the BullSheetGenerator.getPureData method takes to pick one line,
+using an unix machine (algorithm is optimized for those machines).
+
+
+- 50 000 is almost (I can see that it's not really) instantaneous, I would use that inside a 1000 iterations foreach loop
+- 100 000 is noticeable but fast (I'm ok with it)
+- 150 000 is unacceptable for me (but it's less than one second)
+
+
+
 
 
 History Log
 ------------------
+    
+- 1.5.0 -- 2016-02-12
+
+    - add movie_genre
+	- add movie_director
+	- add adjectives
+	- add more in word 
     
 - 1.4.0 -- 2016-02-11
 
