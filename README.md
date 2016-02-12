@@ -62,9 +62,30 @@ using an unix machine (algorithm is optimized for those machines).
 
 
 
+
+Resources
+------------
+
+Amongst the best resources I've come across for collecting bullsheet repositories data:
+
+- http://www.wordlab.com/archives/
+
+
+
+
 History Log
 ------------------
     
+- 1.6.0 -- 2016-02-12
+
+    - add company
+    - add album_title
+    - add movie_title
+    - add book_title
+    - add product_name
+    - add title
+    - add slogan 
+	
 - 1.5.0 -- 2016-02-12
 
     - add movie_genre
