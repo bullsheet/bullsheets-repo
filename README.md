@@ -137,7 +137,7 @@ So far, we can differentiate two types of lists, text lists, and media lists.
 - [list of website domains](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/website_domain/alexa)
 - [list of words](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/word/english), including 
         [lists of words indexed by letters](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/word/english/dwyl/word1)
-
+- [list of sentences](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/text/sentence/all)
 
 ### Medias lists
 
@@ -163,6 +163,11 @@ Amongst the best resources I've come across for collecting bullsheet repositorie
 History Log
 ------------------
     
+- 1.14.0 -- 2016-02-13
+
+    - add [text/sentence](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/text/sentence/all)
+    
+        
 - 1.13.0 -- 2016-02-13
 
     - add [youtube info list](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/miscellaneous/youtube_info/10000)
