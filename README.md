@@ -60,6 +60,68 @@ using an unix machine (algorithm is optimized for those machines).
 
 
 
+What lists are in there?
+---------------------------
+
+I've added a few lists, but I have my own way of organizing things, so probably the best thing to do is to have a look 
+at the [categories](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling).
+
+
+So far, we can differentiate two types of lists, text lists, and media lists.
+
+
+### Text lists
+
+
+- [list of actors](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/actor/given_name)
+- [list of adjectives](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/adjective),
+        [list of emotional adjectives](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/adjective/emotion/all)
+- [list of album titles](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/album_title/wordlab)
+- [list of book titles](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/book_title/wordlab/nonfiction)
+- [list of charlie sheen sentences](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/comment/sheen),
+        you can assemble them randomly to create some fake comments; actually the [LingBullSheetGenerator](https://github.com/lingtalfi/BullSheet)
+        has a comment method that does just that.
+- [lists of companies](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/company)
+- [list of first names](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/first_name/all) and 
+        [list of last names](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/last_name/international),
+        even a [list of female names](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/last_name/international/female)
+        and a [list of male names](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/last_name/international/female)
+- [list of email provider](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/free_email_provider_domain/all)
+- [list of iso 639-1 lang code](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/iso639-1/all) and 
+            [list of iso 639-2 lang code](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/iso639-2/all)
+- [list of lorem sentences and words](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/lorem)
+
+- [list of youtube info](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/miscellaneous/youtube_info/10000), 
+    each line contains the youtube id, the duration, the title, the thumbnail and the description 
+
+- [list of movie directors](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/movie_director) (male and female)
+- [list of movie genres](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/movie_genre/all)
+- [list of movie titles](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/movie_title)
+- [list of music genres](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/music_genre/all)
+- [list of common passwords](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/password/common)
+- [list of product names](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/product_name/wordlab)
+- [list of american pseudo](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/pseudo/american)
+- [list of slogan](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/slogan/wordlab)
+- [list of titles](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/title/all)
+- [list of top level domains](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/top_level_domain/all)
+- [list of tv programs](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/tv_program/wikipedia/all)
+- [list of urls](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/url), including
+        a [list of real youtube urls](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/url/youtube/10000),
+        a [list of fake facebook urls](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/url/facebook/fakeurls),
+        a [list of fake twitter urls](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/url/twitter/fakeurls),
+        and more...
+- [list of website domains](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/website_domain/alexa)
+- [list of words](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/word/english), including 
+        [lists of words indexed by letters](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/word/english/dwyl/word1)
+
+
+### Medias lists
+
+- [list of images](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/image/vintage)
+- [tiny demo list of mp3](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/mp3/demo)
+- [tiny demo list of video](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/video/demo)
+ 
+
 
 
 
