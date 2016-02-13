@@ -77,6 +77,11 @@ Amongst the best resources I've come across for collecting bullsheet repositorie
 History Log
 ------------------
     
+- 1.13.0 -- 2016-02-13
+
+    - add [youtube info list](https://github.com/bullsheet/bullsheets-repo/tree/master/bullsheets/ling/miscellaneous/youtube_info/10000)
+    
+    
 - 1.12.0 -- 2016-02-13
 
     - add video
