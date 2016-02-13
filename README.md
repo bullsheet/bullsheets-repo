@@ -77,11 +77,14 @@ Amongst the best resources I've come across for collecting bullsheet repositorie
 History Log
 ------------------
     
+- 1.10.0 -- 2016-02-13
+
+    - add tv_program
+      
+    
 - 1.9.0 -- 2016-02-13
 
-    - add movie_title/wikipedia
-    
-    
+    - add movie_title/wikipedia    
         
 - 1.8.0 -- 2016-02-12
 
