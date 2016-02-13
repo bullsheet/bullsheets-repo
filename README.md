@@ -40,6 +40,30 @@ For more information, please refer to the documentation of tallhe [BullSheet pla
  
 
 
+Create your own bullsheets
+------------------------------
+
+A bullsheet is simply a text file, with entries in it, one by line.
+For instance, this is the content of a bullsheet for rainbow colors:
+
+```
+red
+orange
+yellow
+green
+blue
+indigo
+violet
+```
+
+Put that in a .txt file and there you have your bullsheet.
+
+
+A tool that uses the bullsheets is the [BullSheet planet by lingtalfi](https://github.com/lingtalfi/BullSheet).
+
+If you want to share your bullsheets via this repository, just send a pull request.
+
+
 
 How much lines should contain a file?
 --------------------
