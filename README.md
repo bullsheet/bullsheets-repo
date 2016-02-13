@@ -69,6 +69,7 @@ Resources
 Amongst the best resources I've come across for collecting bullsheet repositories data:
 
 - http://www.wordlab.com/archives/
+- https://en.wikipedia.org/wiki/Portal:Contents/Lists
 
 
 
@@ -76,6 +77,12 @@ Amongst the best resources I've come across for collecting bullsheet repositorie
 History Log
 ------------------
     
+- 1.9.0 -- 2016-02-13
+
+    - add movie_title/wikipedia
+    
+    
+        
 - 1.8.0 -- 2016-02-12
 
     - add url/facebook
